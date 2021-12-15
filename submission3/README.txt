@@ -1,8 +1,8 @@
 Link to unlisted youtube video:
-###
+https://youtu.be/H0O_13fCKws
 
 Link to the Concept Map:
-###
+https://drive.google.com/file/d/1Uw0XB8t8lmnTuMlHW_96DYnCxSIEuK55/view?usp=sharing
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
