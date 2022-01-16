@@ -1,13 +1,14 @@
 Unlisted youtube video:
+https://youtu.be/RLBnF4U7zN0
 
+Paper (pdf):
+https://drive.google.com/file/d/12HZOIi64PRf8_qfXGIb-3Nk8Qgd6302B/view?usp=sharing
 
 Conference / Paper submission login URL:
 
 
 Paper title:
-
-
-Paper presentation:
+A Comparative Study on COVID-19 Fake News DetectionUsing Different Transformer Based Model
 
 
 Paper submission date (to workshop/conference):
@@ -16,9 +17,8 @@ Paper submission date (to workshop/conference):
 Paper submission ID: (received) from conference/workshop
 
 
-
 Conference URL:
-
+https://lrec2022.lrec-conf.org/en/
 
 Group Number:
 04
