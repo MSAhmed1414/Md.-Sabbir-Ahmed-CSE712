@@ -8,7 +8,7 @@ Conference / Paper submission login URL:
 https://www.softconf.com/lrec2022/main/
 
 Paper title:
-A Comparative Study on COVID-19 Fake News DetectionUsing Different Transformer Based Model
+A Comparative Study on COVID-19 Fake News Detection Using Different Transformer Based Model
 
 
 Paper submission date (to workshop/conference):
