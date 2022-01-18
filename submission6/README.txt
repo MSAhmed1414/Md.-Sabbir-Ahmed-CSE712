@@ -21,12 +21,14 @@ did something else
 ...
 
 was active in slack:
-Shared 
+Shared study materials:
 https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1640171483024900
 https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1640321457027500
 https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1640524335035100
 https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1640774363038400
 https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1641224555043400
+
+Along with these I was active in slack regarding other aspects of the course too.
 
 Submitter:
 21366035 Md. Sabbir Ahmed
