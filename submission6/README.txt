@@ -9,13 +9,13 @@ Completed edx course using email
 None
 
 completed youtube video:
-http://youtube....
+https://youtu.be/fM4qTMfCoak
 
 completed book:
-http://book
+None
 
 did project:
-.....
+None
 
 did something else
 ...
