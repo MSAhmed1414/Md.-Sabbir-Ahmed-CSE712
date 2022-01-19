@@ -9,7 +9,7 @@ Completed edx course using email
 None
 
 completed youtube video:
-https://youtu.be/fM4qTMfCoak
+https://youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
 
 completed book:
 None
